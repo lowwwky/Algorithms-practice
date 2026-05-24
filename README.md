@@ -6,8 +6,11 @@ Java
 - Repositories below show work with diffrent data structures, OOP, reflection, generics.
 
 https://github.com/lowwwky/Lab3-for-Java
+
 https://github.com/lowwwky/Lab4-for-Java
+
 https://github.com/lowwwky/Lab5-for-Java
+
 https://github.com/lowwwky/Lab6-for-Java
 
 C++
